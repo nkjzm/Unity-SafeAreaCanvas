@@ -4,6 +4,13 @@ iPhone X/XSのSafeAreaの「実機起動時サイズ調整」と「Editorプレ�
 
 ![](https://github.com/nkjzm/Unity-SafeAreaCanvas/blob/master/Docs/sample.gif)
 
+# Environment
+
+- Unity 2017.4~
+- Unity 2018.x~
+
+If you use under version, access [iOSSafeAreasPlugin](https://bitbucket.org/p12tic/iossafeareasplugin/src) is recommended.
+
 # Getting Started
 
 1. Download `SafeAreaCanvas.unitypackage` from [Releases](https://github.com/nkjzm/Unity-SafeAreaCanvas/releases).
@@ -11,7 +18,7 @@ iPhone X/XSのSafeAreaの「実機起動時サイズ調整」と「Editorプレ�
 1. Drop `SafeAreaCanvas/Prefabs/SafeAreaCanvas.prefab` to your scene. 
 1. Done!
 
-# Feature
+# Features
 
 - Automatically adjust the size on iOS
 - Preview the size on Unity Editor
