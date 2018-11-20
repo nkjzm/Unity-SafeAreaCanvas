@@ -6,9 +6,10 @@ iPhone X/XSのSafeAreaの「実機起動時サイズ調整」と「Editorプレ�
 
 # Getting Started
 
-1. Download `.unitypackage` from [Releases](https://github.com/nkjzm/Unity-SafeAreaCanvas/releases).
-1. Drop `SafeAreaCanvas/Prefabs/SafeAreaCanvas.prefab` to Your Scene. 
-2. Done!
+1. Download `SafeAreaCanvas.unitypackage` from [Releases](https://github.com/nkjzm/Unity-SafeAreaCanvas/releases).
+1. Import `SafeAreaCanvas.unitypackage` to your Unity project.
+1. Drop `SafeAreaCanvas/Prefabs/SafeAreaCanvas.prefab` to your scene. 
+1. Done!
 
 # Feature
 
