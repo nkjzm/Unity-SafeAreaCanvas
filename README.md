@@ -25,7 +25,7 @@ If you use under version, access [iOSSafeAreasPlugin](https://bitbucket.org/p12t
 - Automatically adjust the size on iOS
 - Preview the size on Unity Editor
   - **NOTICE:** Not compliant with iPad
-- Add Game View Size for Standalone on On Loaded
+- Add Game View Size for Standalone & Android on On Loaded
   - iPhone X/XS Landscape (2436x1125)
   - iPhone X/XS Portrait (1125x2436)
 

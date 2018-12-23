@@ -24,7 +24,7 @@ iPhone X/XSのSafeAreaの「実機起動時サイズ調整」と「Editorプレ�
 - iOS実機での自動サイズ調整
 - Unityエディタ上でのプレビュー
   - **注:** iPadには非対応です
-- Standalone向けのGameビューサイズ追加機能(インポート時)
+- StandaloneとAndroid向けのGameビューサイズ追加機能(読み込み時)
   - iPhone X/XS Landscape (2436x1125)
   - iPhone X/XS Portrait (1125x2436)
 
