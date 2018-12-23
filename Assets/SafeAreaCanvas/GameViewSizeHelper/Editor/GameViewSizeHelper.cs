@@ -4,7 +4,7 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
-namespace Kyusyukeigo.Helper
+namespace nkjzm.SafeAreaCanvas
 {
     public class GameViewSizeHelper
     {
