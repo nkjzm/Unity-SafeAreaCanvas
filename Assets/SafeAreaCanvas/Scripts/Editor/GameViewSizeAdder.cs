@@ -24,6 +24,8 @@ namespace nkjzm.SafeAreaCanvas
             };
             GameViewSizeHelper.AddCustomSize(GameViewSizeGroupType.Standalone, wide);
             GameViewSizeHelper.AddCustomSize(GameViewSizeGroupType.Standalone, tall);
+            GameViewSizeHelper.AddCustomSize(GameViewSizeGroupType.Android, wide);
+            GameViewSizeHelper.AddCustomSize(GameViewSizeGroupType.Android, tall);
         }
     }
 }
