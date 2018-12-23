@@ -1,6 +1,8 @@
 # Unity-SafeAreaCanvas
 
-iPhone X/XSのSafeAreaの「実機起動時サイズ調整」と「Editorプレビュー」に対応したUnityアセット
+The unity asset is that for adjusting the size automatically and preview in Editor.
+
+[日本語のREADMEはこちら](README.ja.md)
 
 ![](https://github.com/nkjzm/Unity-SafeAreaCanvas/blob/master/Docs/sample.gif)
 
@@ -15,7 +17,7 @@ If you use under version, access [iOSSafeAreasPlugin](https://bitbucket.org/p12t
 
 1. Download `SafeAreaCanvas.unitypackage` from [Releases](https://github.com/nkjzm/Unity-SafeAreaCanvas/releases).
 1. Import `SafeAreaCanvas.unitypackage` to your Unity project.
-1. Drop `SafeAreaCanvas/Prefabs/SafeAreaCanvas.prefab` to your scene. 
+1. Drop `SafeAreaCanvas/Prefabs/SafeAreaCanvas.prefab` to your scene.
 1. Done!
 
 # Features
@@ -39,4 +41,4 @@ If you use under version, access [iOSSafeAreasPlugin](https://bitbucket.org/p12t
 
 Nakaji Kohki
 
-Twitter: [@kohki_nakaji](https://twitter.com/kohki_nakaji)
+Twitter: [@nkjzm](https://twitter.com/nkjzm)
