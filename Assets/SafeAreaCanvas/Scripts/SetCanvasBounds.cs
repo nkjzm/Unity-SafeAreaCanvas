@@ -31,18 +31,18 @@ namespace nkjzm.SafeAreaCanvas
 
             Rect safeArea = Screen.safeArea;
 #if UNITY_EDITOR
-        if (Screen.width == 1125 && Screen.height == 2436)
-        {
-            safeArea.y = 102;
-            safeArea.height = 2202;
-        }
-        if (Screen.width == 2436 && Screen.height == 1125)
-        {
-            safeArea.x = 132;
-            safeArea.y = 63;
-            safeArea.height = 1062;
-            safeArea.width = 2172;
-        }
+            if (Screen.width == 1125 && Screen.height == 2436)
+            {
+                safeArea.y = 102;
+                safeArea.height = 2202;
+            }
+            if (Screen.width == 2436 && Screen.height == 1125)
+            {
+                safeArea.x = 132;
+                safeArea.y = 63;
+                safeArea.height = 1062;
+                safeArea.width = 2172;
+            }
 #endif
             if (safeArea != lastSafeArea)
             {
